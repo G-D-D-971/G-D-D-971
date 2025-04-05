@@ -2,9 +2,11 @@
 - 👀 I’m interested in developing apps and OS
 - 🌱 I’m currently learning C++, HTML, CSS and JavaScript
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Discord : G_D_D_971
-- 😄 Pronouns: GDD
-- ⚡ Fun fact: ...
+- 📫 How to reach me:  
+  ✦ Discord: G_D_D_971  
+  ✦ Mail: futs.taraudeurs-0e@icloud.com
+- 😄 Simply: GDD
+- ⚡ Fun fact: I'm bilingual (French, English)
 
 <!---
 G-D-D-971/G-D-D-971 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
