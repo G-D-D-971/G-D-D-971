@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @G-D-D-971
 - 👀 I’m interested in developing apps and OS
-- 🌱 I’m currently learning C++, HTML, CSS and JavaScript
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning C++, C, HTML, CSS, JavaScript, Java and Swift
+- 💞️ I’m looking to collaborate on a lot of things
 - 📫 How to reach me:  
   ✦ Discord: G_D_D_971  
   ✦ Mail: futs.taraudeurs-0e@icloud.com
